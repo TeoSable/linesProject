@@ -1,0 +1,24 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+          1 file(s) copied.
+  A subdirectory or file C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\x64\Debug Dynamic\resources already exists.
+  C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\resources\ball.wav
+  C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\resources\sansation.ttf
+          2 file(s) copied.
+  Dot.cpp
+  Line.cpp
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\Line.cpp(5,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\Line.cpp(6,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(41,43): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(108,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(109,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(114,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(207,28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(239,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\main.cpp(239,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LinesProject.vcxproj -> C:\Users\fedor\Desktop\Файлы X\Programming\C and C++\2 сем\LinesProject\x64\Debug Dynamic\LinesProject.exe
